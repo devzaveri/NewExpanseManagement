@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158469941860",
+    "project_id": "expansemanagementnew",
+    "storage_bucket": "expansemanagementnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158469941860:android:3df692c71e4e86e72ecd71",
+        "android_client_info": {
+          "package_name": "com.expansemanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy1FntVfgFyRuPE3gtchRqK3JiiOyFbLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
